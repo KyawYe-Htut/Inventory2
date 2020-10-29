@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="empty_view_text">Click add new button <br /> to add some new inventory items.<br />Click the item\nfor more information.</string>
+    <string name="detail">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+</resources>
